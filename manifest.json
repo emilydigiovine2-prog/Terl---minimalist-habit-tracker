@@ -1,0 +1,1 @@
+{\n  "name": "Streak",\n  "short_name": "Streak",\n  "start_url": "index.html",\n  "display": "standalone",\n  "background_color": "#ffffff",\n  "theme_color": "#3b82f6",\n  "icons": [{"src": "https://cdn-icons-png.flaticon.com/512/1067/1067555.png", "sizes": "512x512", "type": "image/png"}]\n}
